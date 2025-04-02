@@ -324,37 +324,3 @@ You can use the difference between the averages of actual & estimated delivery d
 Analysis based on the payments:
 Find the month on month no. of orders placed using different payment types.
 Find the no. of orders placed on the basis of the payment installments that have been paid.
-___________________________________________________________________________________________________________
-
-Evaluation Criteria (100 points):
-
-Initial exploration like checking the structure & characteristics of the data (15 points)
-In-depth Exploration (15 points)
-Evolution of E-commerce orders in the Brazil region (10 points)
-Impact on Economy (20 points)
-Analysis on sales, freight and delivery time (20 points)
-Analysis based on the payments (10 points)
-Actionable Insights & Recommendations (10 points)
-___________________________________________________________________________________________________________
-
-Submission Process <IMP>:
-
-Once you’re done with the case study...
-
-Use a Word document to paste your SQL queries along with a screenshot of the first 10 rows from the output.
-List down any valuable insights that you find during the analysis and provide some action items from the company’s perspective in order to improve the current situation.
-Convert your solutions doc into a PDF, and upload the same on the platform.
-Please note that after submitting once, you will not be allowed to edit your submission.
-___________________________________________________________________________________________________________
-
-General Guidelines:
-
-Evaluation will be kept lenient, so make sure you attempt this case study.
-Try to attempt this before it is discussed in the Live Case Discussion with the Instructor.
-It is understandable that you might struggle with getting started on this or feel stuck at some point.
-In such case:
-Read the question carefully and try to understand what exactly is being asked.
-Brainstorm a little. If you’re getting an error, remember that Google is your best friend.
-You can watch the lecture recordings or go through your lecture notes once again if you feel like you’re getting confused over some specific topics.
-Discuss your problems with your peers. Make use of the Slack channel and WhatsApp group.
-Only if you think that there’s a major issue, you can reach out to your Instructor via Slack or Email.
